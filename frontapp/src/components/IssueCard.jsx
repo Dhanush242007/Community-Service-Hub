@@ -26,7 +26,7 @@ const IssueCard = ({ issue }) => {
   };
 
   // Build backend image URL
-  const imageUrl = `https://community-backend-pc5b.onrender.com/${image}`;
+  const imageUrl = ` https://community-service-hub-jy05.onrender.com/${image}`;
 
   return (
     <div className="issue-card glass-panel">

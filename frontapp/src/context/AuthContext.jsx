@@ -2,7 +2,7 @@ import React, { createContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
 // Set global base API URL to point to backend server
-axios.defaults.baseURL = 'https://community-backend-pc5b.onrender.com/';
+axios.defaults.baseURL = ' https://community-service-hub-jy05.onrender.com';
 
 export const AuthContext = createContext();
 

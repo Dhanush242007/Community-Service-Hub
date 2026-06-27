@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://community-backend-pc5b.onrender.com',
+  baseURL: ' https://community-service-hub-jy05.onrender.com',
 });
 
 // Automatically attach token to every request

@@ -113,7 +113,7 @@ const IssueDetails = () => {
           {/* Issue Header */}
           <div className="details-hero glass-panel">
             <img
-              src={`https://community-backend-pc5b.onrender.com/${issue.image}`}
+              src={` https://community-service-hub-jy05.onrender.com/${issue.image}`}
               alt={issue.title}
               className="details-image"
             />
